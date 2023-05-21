@@ -6,3 +6,5 @@
 
 [node name="CharacterBody2D" parent="." instance=ExtResource("1_wtwut")]
 position = Vector2(151, 121)
+
+[node name="Node2D" type="Node2D" parent="."]
