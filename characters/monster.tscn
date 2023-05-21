@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=3 uid="uid://cyivuo13n8d6h"]
+
+[ext_resource type="Texture2D" uid="uid://yaq15k14m82o" path="res://sprites/sprouts/Characters/Basic Charakter Spritesheet.png" id="1_2a8bv"]
+
+[node name="Monster" type="CharacterBody2D"]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture = ExtResource("1_2a8bv")
+hframes = 4
+vframes = 4
