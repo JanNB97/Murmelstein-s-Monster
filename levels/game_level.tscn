@@ -5,3 +5,5 @@
 [node name="GameLevel" type="Node2D"]
 
 [node name="CharacterBody2D" parent="." instance=ExtResource("1_wtwut")]
+position = Vector2(151, 121)
+script = null
