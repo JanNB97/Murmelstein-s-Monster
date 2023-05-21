@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=3 uid="uid://dh7iibf47qev"]
+
+[ext_resource type="PackedScene" uid="uid://cyivuo13n8d6h" path="res://characters/monster.tscn" id="1_wtwut"]
+
+[node name="GameLevel" type="Node2D"]
+
+[node name="CharacterBody2D" parent="." instance=ExtResource("1_wtwut")]
+position = Vector2(151, 121)
+script = null
